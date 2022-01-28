@@ -1,4 +1,4 @@
-module github.com/Johannessenj/myquotetest
+module github.com/JohannessenJ/myquotetest
 
 go 1.17
 
