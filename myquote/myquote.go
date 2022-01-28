@@ -9,7 +9,7 @@ func Go() string {
 }
 
 func Glass() string {
-    glassQuote := quote.Glass
+    glassQuote := quote.Glass()
     return glassQuote
 }
 
