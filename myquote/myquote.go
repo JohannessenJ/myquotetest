@@ -1,6 +1,6 @@
 package myquote
 import (
-    "rsc.io/quote")
+    "rsc.io/quote"
 )
 
 func Go() string {
